@@ -1,12 +1,18 @@
+---
+casestudy:
+  title: 'ケーススタディ: ID セキュリティ ソリューションを設計する'
+  module: 'Module 3: Design identity security strategy'
+---
+
 ## <a name="case-study-design-an-identity-security-solution"></a>ケース スタディ: ID セキュリティ ソリューションを設計する
 
-Tailwind Traders は、架空のホームセンターです。 この会社は、世界中およびオンラインでホームセンターを運営しています。 Tailwind Traders の CISO は、Azure によって提供される機会を認識していますが、強力なセキュリティと堅牢なクラウド アーキテクチャが必要であることも理解しています。 強力なセキュリティと優れた参照アーキテクチャがないと、会社で Azure の環境とコストを管理するのが難しく、追跡と制御が困難になる可能性があります。 CISO は、セキュリティ標準が Azure によってどのように管理および適用されるのかを理解したいと考えています。
+Tailwind Traders is a fictitious home improvement retailer. It operates retail hardware stores across the globe and online. The Tailwind Traders CISO is aware of the opportunities offered by Azure but also understands the need for strong security and solid cloud architecture. Without strong security and a great point of reference architecture, the company may have difficulty managing the Azure environment and costs, which are hard to track and control. The CISO is interested in understanding how Azure manages and enforces security standards.
 
-## <a name="requirements-conditional-access"></a>要件:条件付きアクセス
+## <a name="requirements-conditional-access"></a>要件: 条件付きアクセス
 
-Tailwind Traders は、自社の ID セキュリティ戦略に対して大きな変更の実施を計画しています。 あなたは、推奨事項と質問についてのサポートを求められました。 次に、具体的な要件を示します。
+Tailwind Traders is planning on making some significant changes to their Identity Security Strategy. They have asked for your assistance with recommendations and questions. Here are the specific requirements.
 
-この会社には、顧客環境のための新しいセキュリティ最適化プロジェクトがあります。 CISO は、使用可能なすべての特権ユーザーをクラウドで制御できるようにしたいと考えています。
+The company has a new security optimization project for customer environments. The CISO wants to ensure that all available Privileged Users are controlled in the cloud.
 
 ## <a name="design-tasks"></a>設計タスク
 
