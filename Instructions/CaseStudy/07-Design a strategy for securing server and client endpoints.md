@@ -8,13 +8,13 @@ casestudy:
 
 ## <a name="case-study-remote-access-and-endpoint-strategy"></a>ケース スタディ: リモート アクセスとエンドポイント戦略
 
-Tailwind Traders is a fictitious home improvement retailer. It operates retail hardware stores across the globe and online. The Tailwind Traders CISO is aware of the opportunities offered by Azure, but also understands the need for strong security and solid cloud architecture. Without strong security and a great point of reference architecture, the company may have difficulty managing the Azure environment and costs, which are hard to track and control. The CISO is interested in understanding how Azure manages and enforces security standards.
+Tailwind Traders は、架空のホームセンターです。 この会社は、世界中およびオンラインでホームセンターを運営しています。 Tailwind Traders 社の CISO は、Azure によって提供される機会を認識していますが、強力なセキュリティと堅牢なクラウド アーキテクチャが必要であることも理解しています。 強力なセキュリティと優れた参照アーキテクチャがないと、会社で Azure の環境とコストを管理するのが難しく、追跡と制御が困難になる可能性があります。 CISO は、セキュリティ標準が Azure によってどのように管理および適用されるのかを理解したいと考えています。
 
 ### <a name="requirements-remote-access"></a>要件: リモート アクセス
 
 新しい CIO は、リモート ワーカーがクラウド ワークロードで管理ポートを公開する必要なしにクラウド リソースに接続でき、リモート ブランチ オフィスが会社の本社と常に接続していられるようにしたいと考えています。
 
-The CISO understands that in the current threat landscape, most of the attacks are targeting the endpoints. He needs to establish a new security baseline to harden all endpoints and provide a seamless experience to deploy these baselines across the clients. The CISO also wants to empower the SOC Team to perform investigations on the endpoints to better understand the root cause of an attack.
+CISO は、現在の脅威の状況では、ほとんどの攻撃がエンドポイントをターゲットにしていることを理解しています。 すべてのエンドポイントを強化するための新しいセキュリティ ベースラインを確立し、これらのベースラインをクライアント全体にデプロイするためのシームレスなエクスペリエンスを提供する必要があります。  また、CISO は、SOC チームがエンドポイントについて調査を行い、攻撃の根本原因をより深く理解できるようにしたいと考えています。
 
 ### <a name="design-tasks"></a>設計タスク
 
