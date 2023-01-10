@@ -3,6 +3,7 @@ casestudy:
   title: 'ケーススタディ: ID セキュリティ ソリューションを設計する'
   module: 'Module 3: Design identity security strategy'
 ---
+このケース スタディ演習は、このモジュールで学習した内容に関連するいくつかの概念設計タスクの実行を経験できるように設計されています。
 
 ## <a name="case-study-design-an-identity-security-solution"></a>ケース スタディ: ID セキュリティ ソリューションを設計する
 
