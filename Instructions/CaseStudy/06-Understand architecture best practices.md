@@ -1,3 +1,9 @@
+---
+casestudy:
+  title: 'Understand architecture best practices'
+  module: 'Module 6: Understand architecture best practices'
+---
+
 このケース スタディ演習は、このモジュールで学習した内容に関連するいくつかの概念設計タスクの実行を経験できるように設計されています。
 
 ## <a name="case-study-architecture-best-practices"></a>ケース スタディ: アーキテクチャのベスト プラクティス

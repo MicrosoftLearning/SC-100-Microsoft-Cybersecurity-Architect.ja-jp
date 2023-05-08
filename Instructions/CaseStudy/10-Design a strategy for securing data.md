@@ -1,3 +1,9 @@
+---
+casestudy:
+  title: 'Design a strategy for securing data'
+  module: 'Module 10: Design a strategy for securing data'
+---
+
 このケース スタディ演習は、このモジュールで学習した内容に関連するいくつかの概念設計タスクの実行を経験できるように設計されています。
 
 ## <a name="case-study-data-security"></a>ケース スタディ: データ セキュリティ

@@ -1,3 +1,9 @@
+---
+casestudy:
+  title: 'Design security operations strategy'
+  module: 'Module 2: Design security operations strategy'
+---
+
 このケース スタディ演習は、このモジュールで学習した内容に関連するいくつかの概念設計タスクの実行を経験できるように設計されています。
 
 ## <a name="case-study-design-a-security-operations-solution"></a>ケース スタディ: セキュリティ運用ソリューションを設計する

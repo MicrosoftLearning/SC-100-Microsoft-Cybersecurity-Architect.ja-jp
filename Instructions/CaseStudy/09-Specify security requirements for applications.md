@@ -1,3 +1,9 @@
+---
+casestudy:
+  title: 'Specify security requirements for applications'
+  module: 'Module 9: Specify security requirements for applications'
+---
+
 このケース スタディ演習は、このモジュールで学習した内容に関連するいくつかの概念設計タスクの実行を経験できるように設計されています。
 
 ## <a name="case-study-requirements-for-applications"></a>ケース スタディ: アプリケーションの要件

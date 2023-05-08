@@ -1,3 +1,9 @@
+---
+casestudy:
+  title: 'Build overall security strategy'
+  module: 'Module 1: Build overall security strategy'
+---
+
 このケース スタディ演習は、このモジュールで学習した内容に関連するいくつかの概念設計タスクの実行を経験できるように設計されています。
 
 ## <a name="case-study-design-a-zero-trust-solution"></a>ケース スタディ: ゼロ トラスト ソリューションを設計する

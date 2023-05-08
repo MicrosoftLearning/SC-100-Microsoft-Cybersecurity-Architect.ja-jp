@@ -1,3 +1,9 @@
+---
+casestudy:
+  title: 'Design a strategy for securing PaaS_IaaS_and_SaaS services'
+  module: 'Module 8: Design a strategy for securing PaaS_IaaS_and_SaaS services'
+---
+
 このケース スタディ演習は、このモジュールで学習した内容に関連するいくつかの概念設計タスクの実行を経験できるように設計されています。
 
 ## <a name="case-study-securing-paas-iaas-and-saas-services"></a>ケース スタディ: PaaS、IaaS、SaaS サービスのセキュリティ保護

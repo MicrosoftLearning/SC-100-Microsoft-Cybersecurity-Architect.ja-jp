@@ -1,3 +1,9 @@
+---
+casestudy:
+  title: 'Evaluate security posture and recommend technical strategies'
+  module: 'Module 5: Evaluate security posture and recommend technical strategies'
+---
+
 このケース スタディ演習は、このモジュールで学習した内容に関連するいくつかの概念設計タスクの実行を経験できるように設計されています。
 
 ## <a name="case-study-evaluate-security-posture"></a>ケース スタディ: セキュリティ態勢を評価する
