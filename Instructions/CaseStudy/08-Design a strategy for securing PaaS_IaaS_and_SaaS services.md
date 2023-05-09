@@ -1,6 +1,6 @@
 ---
 casestudy:
-  title: 'Design a strategy for securing PaaS_IaaS_and_SaaS services'
+  title: PaaS、IaaS、SaaS サービスをセキュリティで保護するための戦略を設計する
   module: 'Module 8: Design a strategy for securing PaaS_IaaS_and_SaaS services'
 ---
 
@@ -8,7 +8,7 @@ casestudy:
 
 ## <a name="case-study-securing-paas-iaas-and-saas-services"></a>ケース スタディ: PaaS、IaaS、SaaS サービスのセキュリティ保護
 
-Tailwind Traders は、架空のホームセンターです。 この会社は、世界中およびオンラインでホームセンターを運営しています。 Tailwind Traders の CISO は、Azure によって提供される機会を認識していますが、強力なセキュリティと堅牢なクラウド アーキテクチャが必要であることも理解しています。 強力なセキュリティと優れた参照アーキテクチャがないと、会社で Azure の環境とコストを管理するのが難しく、追跡と制御が困難になる可能性があります。 CISO は、セキュリティ標準が Azure によってどのように管理および適用されるのかを理解したいと考えています。
+Tailwind Traders は、架空のホームセンターです。 この会社は、世界中およびオンラインでホームセンターを運営しています。 Tailwind Traders 社の CISO は、Azure によって提供される機会を認識していますが、強力なセキュリティと堅牢なクラウド アーキテクチャが必要であることも理解しています。 強力なセキュリティと優れた参照アーキテクチャがないと、会社で Azure の環境とコストを管理するのが難しく、追跡と制御が困難になる可能性があります。 CISO は、セキュリティ標準が Azure によってどのように管理および適用されるのかを理解したいと考えています。
 
 ## <a name="requirements"></a>必要条件
 

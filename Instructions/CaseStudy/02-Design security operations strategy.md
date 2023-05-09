@@ -1,6 +1,6 @@
 ---
 casestudy:
-  title: 'Design security operations strategy'
+  title: 'ケース スタディ: セキュリティ運用ソリューションを設計する'
   module: 'Module 2: Design security operations strategy'
 ---
 
@@ -8,11 +8,11 @@ casestudy:
 
 ## <a name="case-study-design-a-security-operations-solution"></a>ケース スタディ: セキュリティ運用ソリューションを設計する
 
-Tailwind Traders は、架空のホームセンターです。 この会社は、世界中およびオンラインでホームセンターを運営しています。 Tailwind Traders の CISO は、Azure によって提供される機会を認識していますが、強力なセキュリティと堅牢なクラウド アーキテクチャが必要であることも理解しています。 強力なセキュリティと優れた参照アーキテクチャがないと、会社で Azure の環境とコストを管理するのが難しく、追跡と制御が困難になる可能性があります。 CISO は、セキュリティ標準が Azure によってどのように管理および適用されるのかを理解したいと考えています。
+Tailwind Traders は、架空のホームセンターです。 この会社は、世界中およびオンラインでホームセンターを運営しています。 Tailwind Traders 社の CISO は、Azure によって提供される機会を認識していますが、強力なセキュリティと堅牢なクラウド アーキテクチャが必要であることも理解しています。 強力なセキュリティと優れた参照アーキテクチャがないと、会社で Azure の環境とコストを管理するのが難しく、追跡と制御が困難になる可能性があります。 CISO は、セキュリティ標準が Azure によってどのように管理および適用されるのかを理解したいと考えています。
 
-### <a name="requirements"></a>必要条件
+### <a name="requirements"></a>要件
 
-Tailwind Traders は、セキュリティ運用にいくつかの重要な変更を加える予定です。 あなたは、推奨事項と質問についてのサポートを求められました。 次に、具体的な要件を示します。
+Tailwind Traders は、セキュリティ運用にいくつかの重要な変更を加える予定です。  あなたは、推奨事項と質問についてのサポートを求められました。 次に、具体的な要件を示します。
 
 **セキュリティおよびアクティビティ ログ** 
 
@@ -25,3 +25,7 @@ Tailwind Traders は、セキュリティ運用にいくつかの重要な変更
 * Tailwind Traders が API を介して提供されるイベント、パフォーマンス データ、またはカスタム データを収集できるさまざまな方法は何ですか? ソリューションを評価し、意思決定プロセスを説明します。
 * Tailwind Traders が Azure リソースのセキュリティの可視性 (および制御) を強化することで、脅威を防止し、検出し、それに対応できるさまざまな方法は何ですか? ソリューションを評価し、意思決定プロセスを説明します。
 * ユーザーがデータ、アプリケーション、およびその他の資産を Microsoft Azure で保護するために利用できる Azure セキュリティ運用サービスをどのように組み込んでいますか?
+
+### <a name="resources"></a>リソース
+
+* [Microsoft サイバーセキュリティ リファレンス アーキテクチャ](https://github.com/MicrosoftDocs/security/blob/main/Downloads/microsoft-cybersecurity-reference-architectures.pptx?raw=true): スライド 9 (Microsoft サイバーセキュリティ リファレンス アーキテクチャ)、49 (セキュリティ運用モデル – 機能とツール)、48 (セキュリティ運用)、および 51 (ツールとデータの収束)
