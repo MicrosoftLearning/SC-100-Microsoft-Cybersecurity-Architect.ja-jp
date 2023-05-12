@@ -1,4 +1,4 @@
-# <a name="sc-100-microsoft-cybersecurity-expert"></a>SC-100:Microsoft サイバーセキュリティ エキスパート
+# SC-100:Microsoft サイバーセキュリティ エキスパート
 
 このリポジトリには、次のケース スタディが含まれています。SC-100:Microsoft サイバーセキュリティ アーキテクト認定
 
@@ -13,3 +13,6 @@
 * [セキュリティ PaaS、IaaS、SaaS サービスの戦略を設計する](/Instructions/CaseStudy/08-Design%20a%20strategy%20for%20securing%20PaaS_IaaS_and_SaaS%20services.md)
 * [アプリケーションのセキュリティ要件を指定する](/Instructions/CaseStudy/09-Specify%20security%20requirements%20for%20applications.md)
 * [データをセキュリティで保護するための戦略を設計する](/Instructions/CaseStudy/10-Design%20a%20strategy%20for%20securing%20data.md)
+* [MCRA と MCSB のベスト プラクティス](/Instructions/CaseStudy/11-Best%20practices%20with%20MCRA%20and%20MCSB.md)
+* [CAF を使用したセキュア手法を推奨する](/Instructions/CaseStudy/12-Secure%20methodology%20with%20CAF.md)
+* [Microsoft セキュリティのベスト プラクティスを使用してランサムウェア戦略を推奨する](/Instructions/CaseStudy/13-Ransomware%20strategy.md)
