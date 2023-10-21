@@ -1,14 +1,14 @@
 ---
 casestudy:
   title: 'ケーススタディ: 規制コンプライアンスを評価する'
-  module: 'Module 4: Evaluate a regulatory compliance strategy'
+  module: 'Module 05: Design solutions for regulatory compliance'
 ---
 
 このケース スタディ演習は、このモジュールで学習した内容に関連するいくつかの概念設計タスクの実行を経験できるように設計されています。
 
 ## ケース スタディ: 規制コンプライアンスを評価する
 
-Contoso Pharma は、北米とヨーロッパで活動する世界的な製薬会社です。 Contoso Pharma には、オンプレミスと Azure のワークロードがあります。  目標は、今後 2 年間にすべてのワークロードを Azure に完全に移行し、オンプレミスのワークロードを最小限に抑えることです。  同社の主なワークロードの一覧を次に示します。
+Contoso Pharma は、北米とヨーロッパで事業を展開する世界的な製薬会社です。  Contoso Pharma には、オンプレミスと Azure のワークロードがあります。  目標は、今後 2 年間にすべてのワークロードを Azure に完全に移行し、オンプレミスのワークロードを最小限に抑えることです。  同社の主なワークロードの一覧を次に示します。
 
 - VM (Windows と Linux)
 - ストレージ アカウント
