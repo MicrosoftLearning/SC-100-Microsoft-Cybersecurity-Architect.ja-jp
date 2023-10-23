@@ -4,4 +4,4 @@ casestudy:
   module: 'Module 09: Design solutions for securing Microsoft 365'
 ---
 
-準備中のケース スタディ。
+ケース スタディは準備中です。
