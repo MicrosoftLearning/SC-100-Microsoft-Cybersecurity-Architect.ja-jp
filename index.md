@@ -1,19 +1,27 @@
 ---
-title: Online Hosted Instructions
+title: オンラインでホスティングされている手順
 permalink: index.html
 layout: home
 ---
 
-# Content Directory
+# コンテンツ ディレクトリ
 
-Hyperlinks to each of the lab exercises and demos are listed below.
+各ケース スタディへのハイパーリンクを次に示します。
 
-## Labs
 
-{% assign casestudy = site.pages | where_exp:"page", "page.url contains '/Instructions/CaseStudy'" %}
-| Module | CaseStudy |
+## 2023 年 5 月のコンテンツ更新に合わせて再編成されたケース スタディ
+
+{% assign casestudy= site.pages | where_exp:"page", "page.url contains '/Instructions/CaseStudyv2/'" %}
+| モジュール | ケース スタディ |
 | --- | --- | 
-{% for activity in casestudy  %}| {{ activity.casestudy.module }} | [{{ activity.casestudy.title }}{% if activity.casestudy.type %} - {{ activity.casestudy.type }}{% endif %}]({{ site.github.url }}{{ activity.url }}) |
+{% for activity in casestudy  %}| {{ activity.casestudy.module }} | [{{ activity.casestudy.title }}]({{ site.github.url }}{{ activity.url }}) |
 {% endfor %}
 
 
+## 以前のケース スタディの編成
+
+{% assign casestudy= site.pages | where_exp:"page", "page.url contains '/Instructions/CaseStudy/'" %}
+| モジュール | ケース スタディ |
+| --- | --- | 
+{% for activity in casestudy  %}| {{ activity.casestudy.module }} | [{{ activity.casestudy.title }}]({{ site.github.url }}{{ activity.url }}) |
+{% endfor %}
