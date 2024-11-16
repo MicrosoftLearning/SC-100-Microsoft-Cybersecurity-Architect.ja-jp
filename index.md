@@ -1,5 +1,5 @@
 ---
-title: オンラインでホスティングされている手順
+title: オンラインでホストされる手順
 permalink: index.html
 layout: home
 ---
@@ -12,7 +12,7 @@ layout: home
 ## 2023 年 5 月のコンテンツ更新に合わせて再編成されたケース スタディ
 
 {% assign casestudy= site.pages | where_exp:"page", "page.url contains '/Instructions/CaseStudyv2/'" %}
-| モジュール | ケース スタディ |
+| モジュール | ケーススタディ |
 | --- | --- | 
 {% for activity in casestudy  %}| {{ activity.casestudy.module }} | [{{ activity.casestudy.title }}]({{ site.github.url }}{{ activity.url }}) |
 {% endfor %}
@@ -21,7 +21,7 @@ layout: home
 ## 以前のケース スタディの編成
 
 {% assign casestudy= site.pages | where_exp:"page", "page.url contains '/Instructions/CaseStudy/'" %}
-| モジュール | ケース スタディ |
+| モジュール | ケーススタディ |
 | --- | --- | 
 {% for activity in casestudy  %}| {{ activity.casestudy.module }} | [{{ activity.casestudy.title }}]({{ site.github.url }}{{ activity.url }}) |
 {% endfor %}
