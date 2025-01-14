@@ -1,7 +1,7 @@
 ---
 casestudy:
   title: 'ケース スタディ: ケース スタディの概要'
-  module: 'Module 0: ケース スタディの概要'
+  module: 'Module 0: Case study introduction'
 ---
 
 ## ケース スタディの概要
